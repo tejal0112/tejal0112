@@ -8,21 +8,21 @@
 
 **Skills**
 
--Java
--Python
--ASP.NET
--HTML5
--CSS3
--JavaScript
--MySQL
--Android Develpment
+- Java
+- Python
+- ASP.NET
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+- Android Develpment
 
 
 
 **Projects**
 
--Heart Disease Analysis Web Portal
--Doctor Appointment
+- Heart Disease Analysis Web Portal
+- Doctor Appointment
 
 
 **Connect With Me**
