@@ -1,5 +1,11 @@
 ## Hi I'm Tejal Patil 👋
 
+
+
+**MCA Student | Aspiring Full-Stack Developer**
+
+
+
 <!--
 **tejal0112/tejal0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
