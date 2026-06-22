@@ -8,20 +8,26 @@
 
 **Skills**
 
-Java
-Python
-ASP.NET
-HTML5
-CSS3
-JavaScript
-MySQL
-Android Develpment
+-Java
+-Python
+-ASP.NET
+-HTML5
+-CSS3
+-JavaScript
+-MySQL
+-Android Develpment
 
 
 
 **Projects**
 
--
+-Heart Disease Analysis Web Portal
+-Doctor Appointment
+
+
+**Connect With Me**
+
+-Linkdin:https://www.linkedin.com/in/tejal-patil-5a5810269/
 
 <!--
 **tejal0112/tejal0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
