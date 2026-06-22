@@ -6,6 +6,23 @@
 
 
 
+**Skills**
+
+*Java
+*Python
+*ASP.NET
+*HTML5
+*CSS3
+*JavaScript
+*MySQL
+*Android Develpment
+
+
+
+**Projects**
+
+-
+
 <!--
 **tejal0112/tejal0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
