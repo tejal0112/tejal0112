@@ -8,14 +8,14 @@
 
 **Skills**
 
-*Java
-*Python
-*ASP.NET
-*HTML5
-*CSS3
-*JavaScript
-*MySQL
-*Android Develpment
+Java
+Python
+ASP.NET
+HTML5
+CSS3
+JavaScript
+MySQL
+Android Develpment
 
 
 
